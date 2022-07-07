@@ -1,24 +1,24 @@
 .ftr{
     background-color: #d73131;
-    height:200px;
+    height:100px;
 }
 
 .cprt{
-    padding-left: 100px;
-    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 100px;
 }
 
 .fb{
-    padding-left: 100px;
-    padding-top: 50px;
+    padding-right: 200px;
+    padding-top: 0px;
 }
 
 .twi{
-    padding-left: 150px;
+    padding-right: 3px;
     padding-top: 0;
 }
 
 .yt{
-    padding-left: 200px;
+    padding-left: 40px;
     padding-bottom: px;
 }

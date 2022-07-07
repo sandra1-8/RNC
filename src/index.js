@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import 'mdb-react-ui-kit/dist/css/mdb.min.css'
+import App from './App'
 import Navbar from './Components/Navbar'
 import reportWebVitals from './reportWebVitals';
 import Banner from './Components/Banner/Banner'
@@ -13,6 +14,8 @@ import Description from './Components/Description/Description';
 class Question extends React.Component {
   render() {
     return <h3> Lets go for a <FaBeer />? </h3>
+
+    
   }
 }
 
@@ -22,6 +25,7 @@ root.render(
     <Navbar />
     <Banner />
     <Description/>
+    <App/>
     <Footer/>
   </React.StrictMode>
 );

@@ -1,5 +1,5 @@
 .logo{
-    padding-top: 0px;
+   padding-top: 0px;
     position:fixed;
     left:10px;
     width:280px;
@@ -24,14 +24,14 @@
 }
 
 .navbar{
-    position: fixed;
+    position:fixed;
     top:0;
     width: 100%;
-    height:100px;
+    height:120px;
     padding:20px;
     display:flex;
     justify-content: space-between;
-    background-color: rgb(244, 243, 243);
+    background-color: rgb(225, 229, 235);
 }
 
 .login{
@@ -54,7 +54,7 @@
 }
 
 .rnc{
-    position: fixed;
+    position:fixed;
     right:30%;
     font-size:40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;

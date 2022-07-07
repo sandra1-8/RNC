@@ -11,8 +11,7 @@ function NavBar() {
        <img className="nba" src="https://mgmits.ac.in/wp-content/themes/muthoot/images/nba.png"></img>
        <img className="nirf" src="https://mgmits.ac.in/wp-content/themes/muthoot/images/nirf-logo.png"></img>
        <img className="ariia" src="https:/mgmits.ac.in/wp-content/themes/muthoot/images/ariia_logo.jpg"></img>
-       <a href="https://mdbootstrap.com/docs/standard/extended/login/" className='login'>LOGIN</a>
-       <a href="https://mdbootstrap.com/docs/standard/extended/login/" className='signup'>SIGNUP</a>
+       
        <h1 className='rnc'>RESEARCH AND CONSULTANCY CELL</h1>
     </div>
   )
